@@ -1,5 +1,5 @@
 
-![ChatApp](https://github.com/user-attachments/assets/ecd230b5-f037-4426-a1ec-f7161cb252d5)
+![ChatApp](https://github.com/user-attachments/assets/40e85b90-7656-49a8-addd-10bd763b5b2f)
 
 # Chat Application
 
